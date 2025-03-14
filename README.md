@@ -2,7 +2,7 @@
 
 Sonic Odyssey Bot is an application designed for interacting with the Sonic Odyssey platform. It supports multiple features including sending SOL (Solana) cryptocurrency transactions, claiming rewards, opening mystery boxes, and daily login operations.
 
-## Features
+## Features:
 
 - **Transaction Sending**: Sends SOL transactions from multiple accounts to random addresses.
 - **Claim Box**: Automates the process of claiming rewards boxes.
