@@ -12,7 +12,7 @@ Sonic Odyssey Bot is an application designed for interacting with the Sonic Odys
 - **Adjustable Amount of SOL**: Allows users to specify the amount of SOL to send in each transaction.
 - **Transaction Delay**: Allows users to specifya a delay between each transaction.
 
-## Prerequisites
+## Prerequisites 
 
 - Node.js installed on your machine
 - `npm` or `yarn` package manager
